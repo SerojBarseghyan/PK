@@ -1,0 +1,8 @@
+.video_main_container{
+    width: 66vw;
+    padding-left: 10px;
+    padding-top: 10px;
+    height: 1200px;
+    overflow: hidden;
+    float: left;
+}

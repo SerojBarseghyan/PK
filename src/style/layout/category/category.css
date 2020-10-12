@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+.main_div{
+    width: 14vw;
+    height: auto;
+    border-right: 2px solid #9318c8;
+    border-bottom: 2px solid #9318c8;
+    padding-left: 20px;
+    overflow: auto;
+    float: left;
+}
+.category_list_item{
+    text-align: left;
+    color: white;
+    text-decoration: none;
+    list-style: none;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 25px;
+}
+.a-non:hover{
+    color: #c81887;
+}
+.a-non{
+    text-decoration: none;
+    color: white;
+}

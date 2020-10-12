@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+.video_item_container {
+    float: left;
+    width: 21vw;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    overflow: hidden;
+    height: auto;
+}
+.image_item{
+    width: 21vw;
+    height: 234px;
+    background-color: #282c34;
+}
+.video_info{
+    width: 21vw;
+    text-align: center;
+    height: auto;
+    overflow: hidden;
+    padding-top: 4px;
+    padding-bottom: 5px;
+    padding-left: 7px;
+    background-color: #9318c8;
+}
+.title_info{
+    color: white;
+    font-family: 'Caveat', cursive;
+    font-size: 20px;
+}
+.time_info{
+    text-align: right;
+    width: 18vw;
+    color: white;
+    float: right;
+    padding-right: 6px;
+}
+.studeo_logo{
+    width: 40px;
+    height: 40px;
+    float: left;
+    border-radius: 50%;
+    background-color: black;
+}
+.text_info{
+    text-align: left;
+    width: 17vw;
+    color: white;
+    float: right;
+    padding-right: 6px;
+}
